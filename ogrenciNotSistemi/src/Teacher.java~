@@ -1,0 +1,12 @@
+public class Teacher {
+    String name;
+    String telNo;
+    String department;
+
+    Teacher(String name,String telNo,String department){
+        this.name=name;
+        this.telNo=telNo;
+        this.department=department;
+
+    }
+}
